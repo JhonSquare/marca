@@ -2331,7 +2331,7 @@
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 0.35em;
-		border: solid 3px #efefef;
+		border: solid 3px steelblue;
 		color: #787878 !important;
 		cursor: pointer;
 		display: inline-block;
@@ -2463,7 +2463,7 @@
 /* Header */
 
 	#header {
-		background-color: black;
+		background-color: steelblue;
 		background-attachment: scroll,								fixed;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
@@ -2495,7 +2495,7 @@
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 6.25em;
+			width: 9.25em;
 		}
 
 /* Footer */
@@ -2553,7 +2553,7 @@
 	}
 
 		#main > section {
-			border-top: solid 2px #efefef;
+			border-top: solid 2px steelblue;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
